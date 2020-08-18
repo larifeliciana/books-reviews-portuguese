@@ -4,7 +4,9 @@ Este repositório contém o dataset proposto no trabalho "A Sentiment Classifica
 O dataset proposto contém 2000 comentários sobre livros feitos no idioma português brasileiro por usuários da Amazon Brasil. Os dados disponibilizados são os documetos brutos, sem qualquer tipo de processamento, dando ao pesquisador a liberdade para executar as etapas de pré-processamento desejadas.
 
 O dataset está organizado nos seguintes arquivos, onde cada linha equivale a um comentário.
-**books_pt_neg** - mil comentários de livros classificados como negativos pelos usuários (abaixo de 3 estrelas).
+
+**books_pt_neg** - mil comentários de livros classificados como negativos pelos usuários (abaixo de 3 estrelas). 
+
 **books_pt_pos** - mil comentários de livros classificados como positivos pelos usuários (acima de 3 estrelas).
 
 Se utilizar esse corpus por favor cite:
